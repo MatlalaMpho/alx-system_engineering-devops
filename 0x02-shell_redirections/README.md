@@ -3,3 +3,4 @@
  3. Display the content of the /etc/passwd file. file is 2-hellofile.
  4. Display the content of /etc/passwd and /etc/hosts. file is 3-twofiles.
  5. Display the last 10 lines of /etc/passwd. file is 4-lastlines.
+ 6. Display the first 10 lines of /etc/passwd. file is 5-firstlines.
